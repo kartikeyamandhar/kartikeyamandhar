@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartikeya</h1>
-<h3 align="center">Hi I am Kartikeya, an MSBA student at UCLA and have a keen interest in everything Data related - from building scalable pipelines to automating boring stuff with Python & cloud tech 🚀</h3>
+<h3 align="center">MSBA student at UCLA and having a keen interest in everything Data related - from building scalable pipelines to automating boring stuff with Python & cloud tech 🚀</h3>
 
 - 📫 How to reach me **kartikeya.mandhar.2026@anderson.ucla.edu**
 
