@@ -131,11 +131,6 @@ UCLA Anderson MSBA '26
 <div align="center">
 
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=kartikeyamandhar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=kartikeyamandhar&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" media="(prefers-color-scheme: light)" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kartikeyamandhar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-</picture>
-<picture>
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeyamandhar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" media="(prefers-color-scheme: dark)" />
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeyamandhar&layout=compact&hide_border=true&langs_count=8" media="(prefers-color-scheme: light)" />
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeyamandhar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
