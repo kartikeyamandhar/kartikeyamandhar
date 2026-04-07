@@ -129,9 +129,7 @@ UCLA Anderson MSBA '26
 ### GitHub Analytics
 
 <div align="center">
-
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeyamandhar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" media="(prefers-color-scheme: dark)" />
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeyamandhar&layout=compact&hide_border=true&langs_count=8" media="(prefers-color-scheme: light)" />
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeyamandhar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </picture>
