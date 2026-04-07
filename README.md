@@ -6,7 +6,6 @@ UCLA Anderson MSBA '26
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikeyamandhar)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kmandhar@g.ucla.edu)
-[![Profile Views](https://komarev.com/ghpvc/?username=kartikeyamandhar&style=flat-square&color=2f80ed&label=Profile+Views)](https://github.com/kartikeyamandhar)
 
 </div>
 
