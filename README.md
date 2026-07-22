@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kartikeyamandhar/kartikeyamandhar/main/assets/header.svg" alt="Kartikeya Mandhar — AI/LLM Engineer & Data Scientist. Systems that refuse to be confidently wrong." width="850" />
+# Kartikeya Mandhar
+
+**AI / LLM Engineer · Data Scientist · Data Engineer · Full-stack AI**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kmandhar.com-B22119?style=flat-square&logo=vercel&logoColor=white)](https://kmandhar.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikeyamandhar)
@@ -11,11 +13,11 @@
 
 ---
 
-I build systems that **retrieve, reason, and rank** — agentic, retrieval, and evaluation systems, plus the applied-ML and full-stack products around them. 4+ years across production data, ML, and applied AI.
+I build agentic, retrieval, and evaluation systems, plus the applied-ML and full-stack products around them. 4+ years across production data, ML, and applied AI.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kartikeyamandhar/kartikeyamandhar/main/assets/systems.svg" alt="How I build reliable AI systems: ingest, hybrid retrieval, reason, verify (span citations, refusal gates, deterministic scoring), ship behind a golden-set deploy gate." width="850" />
+<img src="https://raw.githubusercontent.com/kartikeyamandhar/kartikeyamandhar/main/assets/systems.svg" alt="How I build: ingest, retrieve, reason, verify, ship." width="850" />
 
 </div>
 
@@ -95,9 +97,3 @@ More work, and an "Ask the Projectionist" AI guide, at **[kmandhar.com](https://
 ### Certifications
 
 **AWS** Machine Learning – Specialty &nbsp;·&nbsp; **Azure** Data Engineer Associate (DP-203) &nbsp;·&nbsp; **Azure** AI Engineer Associate
-
-<div align="center">
-
-*Building things that retrieve, reason, and rank. If that overlaps with what you're building, reach out.*
-
-</div>
