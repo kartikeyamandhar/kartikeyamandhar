@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 232" width="900" height="232" role="img" aria-label="How I build reliable AI systems: ingest, retrieve with hybrid dense sparse rerank, reason with an LLM, verify with span citations refusal gates and deterministic scoring, then ship behind a golden-set deploy gate. The LLM proposes, deterministic checks decide.">
+  <defs>
+    <pattern id="sprkt2" width="26" height="12" patternUnits="userSpaceOnUse">
+      <rect width="26" height="12" fill="#0b0b0b"/>
+      <rect x="8" y="3" width="10" height="6" rx="2.5" fill="#ece7dd"/>
+    </pattern>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="230" rx="14" fill="#16161b" stroke="#2a2a33"/>
+  <rect x="16" y="16" width="868" height="12" rx="2" fill="url(#sprkt2)"/>
+
+  <circle cx="34" cy="52" r="4" fill="#e24a3f"/>
+  <text x="46" y="56" font-family="'SFMono-Regular', ui-monospace, Consolas, monospace" font-size="12" letter-spacing="3" fill="#9a9484">HOW I BUILD RELIABLE AI SYSTEMS</text>
+
+  <!-- pipeline nodes -->
+  <g font-family="'Helvetica Neue', Arial, sans-serif">
+    <!-- INGEST -->
+    <rect x="30" y="82" width="148" height="70" rx="8" fill="#1c1c22" stroke="#3a3a44"/>
+    <text x="104" y="115" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.5" fill="#ece7dd">INGEST</text>
+    <text x="104" y="134" text-anchor="middle" font-size="8.5" letter-spacing="0.5" fill="#9a9484">filings &#183; docs &#183; data</text>
+
+    <!-- RETRIEVE -->
+    <rect x="203" y="82" width="148" height="70" rx="8" fill="#1c1c22" stroke="#3a3a44"/>
+    <text x="277" y="115" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.5" fill="#ece7dd">RETRIEVE</text>
+    <text x="277" y="134" text-anchor="middle" font-size="8.5" letter-spacing="0.5" fill="#9a9484">dense + sparse + rerank</text>
+
+    <!-- REASON -->
+    <rect x="376" y="82" width="148" height="70" rx="8" fill="#1c1c22" stroke="#3a3a44"/>
+    <text x="450" y="115" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.5" fill="#ece7dd">REASON</text>
+    <text x="450" y="134" text-anchor="middle" font-size="8.5" letter-spacing="0.5" fill="#9a9484">LLM proposes</text>
+
+    <!-- VERIFY (highlighted) -->
+    <rect x="549" y="82" width="148" height="70" rx="8" fill="#241618" stroke="#e24a3f"/>
+    <text x="623" y="115" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.5" fill="#e6544a">VERIFY</text>
+    <text x="623" y="134" text-anchor="middle" font-size="8.5" letter-spacing="0.5" fill="#c98a84">cite &#183; refuse &#183; score</text>
+
+    <!-- SHIP (highlighted) -->
+    <rect x="722" y="82" width="148" height="70" rx="8" fill="#241618" stroke="#e24a3f"/>
+    <text x="796" y="115" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.5" fill="#e6544a">SHIP</text>
+    <text x="796" y="134" text-anchor="middle" font-size="8.5" letter-spacing="0.5" fill="#c98a84">golden-set gate</text>
+  </g>
+
+  <!-- arrows -->
+  <g stroke="#6a6558" stroke-width="1.6" fill="#6a6558">
+    <line x1="181" y1="117" x2="197" y2="117"/><path d="M196 113 L203 117 L196 121 Z"/>
+    <line x1="354" y1="117" x2="370" y2="117"/><path d="M369 113 L376 117 L369 121 Z"/>
+    <line x1="527" y1="117" x2="543" y2="117"/><path d="M542 113 L549 117 L542 121 Z"/>
+    <line x1="700" y1="117" x2="716" y2="117"/><path d="M715 113 L722 117 L715 121 Z"/>
+  </g>
+
+  <text x="450" y="196" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="14" fill="#c3bdac">The LLM proposes. Deterministic checks decide.</text>
+</svg>
