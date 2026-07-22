@@ -2,7 +2,7 @@
 
 # Kartikeya Mandhar
 
-**AI / LLM Engineer · Data Scientist · Data Engineer · Full-stack AI**
+**Applied AI**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kmandhar.com-B22119?style=flat-square&logo=vercel&logoColor=white)](https://kmandhar.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikeyamandhar)

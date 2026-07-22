@@ -1,35 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 188" width="900" height="188" role="img" aria-label="How I build: ingest, retrieve with dense sparse rerank, reason where the LLM proposes, verify with cite refuse and score, then ship behind a golden-set gate.">
-  <rect x="1" y="1" width="898" height="186" rx="14" fill="#16161b" stroke="#2a2a33"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 148" width="900" height="148" role="img" aria-label="How I build: ingest, retrieve with dense sparse rerank, reason, verify with cite refuse score, then ship behind a golden-set gate.">
+  <style>
+    .svgt{fill:#1f2328} .svgm{fill:#656d76} .svgbox{fill:#f6f8fa;stroke:#d0d7de} .svga{fill:#cf222e} .svgab{fill:#ffebe9;stroke:#cf222e} .svgarw{stroke:#8c959f;fill:#8c959f}
+    @media (prefers-color-scheme:dark){
+      .svgt{fill:#e6edf3} .svgm{fill:#8b949e} .svgbox{fill:#161b22;stroke:#30363d} .svga{fill:#ff7b72} .svgab{fill:#2b1618;stroke:#f85149} .svgarw{stroke:#6e7681;fill:#6e7681}
+    }
+    .svgsans{font-family:'Helvetica Neue',Arial,sans-serif}
+    .svgmono{font-family:'SFMono-Regular',ui-monospace,Consolas,monospace}
+  </style>
 
-  <circle cx="34" cy="40" r="4" fill="#e24a3f"/>
-  <text x="46" y="44" font-family="'SFMono-Regular', ui-monospace, Consolas, monospace" font-size="12" letter-spacing="3" fill="#9a9484">HOW I BUILD</text>
+  <circle cx="34" cy="24" r="4" class="svga"/>
+  <text x="46" y="28" class="svgmono svgm" font-size="12" letter-spacing="3">HOW I BUILD</text>
 
-  <g font-family="'Helvetica Neue', Arial, sans-serif">
-    <rect x="30" y="72" width="148" height="70" rx="8" fill="#1c1c22" stroke="#3a3a44"/>
-    <text x="104" y="105" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.5" fill="#ece7dd">INGEST</text>
-    <text x="104" y="124" text-anchor="middle" font-size="8.5" fill="#9a9484">filings &#183; docs &#183; data</text>
+  <g class="svgsans">
+    <rect x="30" y="52" width="148" height="70" rx="8" class="svgbox"/>
+    <text x="104" y="84" text-anchor="middle" class="svgt" font-size="14" font-weight="700" letter-spacing="1.5">INGEST</text>
+    <text x="104" y="103" text-anchor="middle" class="svgm" font-size="8.5">filings &#183; docs &#183; data</text>
 
-    <rect x="203" y="72" width="148" height="70" rx="8" fill="#1c1c22" stroke="#3a3a44"/>
-    <text x="277" y="105" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.5" fill="#ece7dd">RETRIEVE</text>
-    <text x="277" y="124" text-anchor="middle" font-size="8.5" fill="#9a9484">dense + sparse + rerank</text>
+    <rect x="203" y="52" width="148" height="70" rx="8" class="svgbox"/>
+    <text x="277" y="84" text-anchor="middle" class="svgt" font-size="14" font-weight="700" letter-spacing="1.5">RETRIEVE</text>
+    <text x="277" y="103" text-anchor="middle" class="svgm" font-size="8.5">dense + sparse + rerank</text>
 
-    <rect x="376" y="72" width="148" height="70" rx="8" fill="#1c1c22" stroke="#3a3a44"/>
-    <text x="450" y="105" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.5" fill="#ece7dd">REASON</text>
-    <text x="450" y="124" text-anchor="middle" font-size="8.5" fill="#9a9484">LLM proposes</text>
+    <rect x="376" y="52" width="148" height="70" rx="8" class="svgbox"/>
+    <text x="450" y="92" text-anchor="middle" class="svgt" font-size="14" font-weight="700" letter-spacing="1.5">REASON</text>
 
-    <rect x="549" y="72" width="148" height="70" rx="8" fill="#241618" stroke="#e24a3f"/>
-    <text x="623" y="105" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.5" fill="#e6544a">VERIFY</text>
-    <text x="623" y="124" text-anchor="middle" font-size="8.5" fill="#c98a84">cite &#183; refuse &#183; score</text>
+    <rect x="549" y="52" width="148" height="70" rx="8" class="svgab"/>
+    <text x="623" y="84" text-anchor="middle" class="svga" font-size="14" font-weight="700" letter-spacing="1.5">VERIFY</text>
+    <text x="623" y="103" text-anchor="middle" class="svga" font-size="8.5" opacity="0.85">cite &#183; refuse &#183; score</text>
 
-    <rect x="722" y="72" width="148" height="70" rx="8" fill="#241618" stroke="#e24a3f"/>
-    <text x="796" y="105" text-anchor="middle" font-size="14" font-weight="700" letter-spacing="1.5" fill="#e6544a">SHIP</text>
-    <text x="796" y="124" text-anchor="middle" font-size="8.5" fill="#c98a84">golden-set gate</text>
+    <rect x="722" y="52" width="148" height="70" rx="8" class="svgab"/>
+    <text x="796" y="84" text-anchor="middle" class="svga" font-size="14" font-weight="700" letter-spacing="1.5">SHIP</text>
+    <text x="796" y="103" text-anchor="middle" class="svga" font-size="8.5" opacity="0.85">golden-set gate</text>
   </g>
 
-  <g stroke="#6a6558" stroke-width="1.6" fill="#6a6558">
-    <line x1="181" y1="107" x2="197" y2="107"/><path d="M196 103 L203 107 L196 111 Z"/>
-    <line x1="354" y1="107" x2="370" y2="107"/><path d="M369 103 L376 107 L369 111 Z"/>
-    <line x1="527" y1="107" x2="543" y2="107"/><path d="M542 103 L549 107 L542 111 Z"/>
-    <line x1="700" y1="107" x2="716" y2="107"/><path d="M715 103 L722 107 L715 111 Z"/>
+  <g class="svgarw" stroke-width="1.6">
+    <line x1="181" y1="87" x2="197" y2="87"/><path d="M196 83 L203 87 L196 91 Z"/>
+    <line x1="354" y1="87" x2="370" y2="87"/><path d="M369 83 L376 87 L369 91 Z"/>
+    <line x1="527" y1="87" x2="543" y2="87"/><path d="M542 83 L549 87 L542 91 Z"/>
+    <line x1="700" y1="87" x2="716" y2="87"/><path d="M715 83 L722 87 L715 91 Z"/>
   </g>
 </svg>
